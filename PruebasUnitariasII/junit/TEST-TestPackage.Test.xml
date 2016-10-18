@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="1" hostname="LAPT-DGO-01" name="TestPackage.Test" skipped="0" tests="1" time="0.107" timestamp="2016-10-18T05:33:12">
+<testsuite errors="1" failures="0" hostname="LAPT-DGO-01" name="TestPackage.Test" skipped="0" tests="1" time="0.0" timestamp="2016-10-18T06:00:06">
   <properties>
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="env.PROMPT" value="$P$G" />
@@ -39,11 +39,11 @@
     <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_101\bin\java.exe" />
     <property name="file.encoding" value="Cp1252" />
     <property name="ant.project.default-target" value="build" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner TestPackage.Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\junit\TEST-TestPackage.Test.xml crashfile=C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\junitvmwatcher4782433213374884282.properties propsfile=C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\junit4016334276430177585.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner TestPackage.Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\junit\TEST-TestPackage.Test.xml crashfile=C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\junitvmwatcher4928476931329756220.properties propsfile=C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\junit4475637711556905901.properties" />
     <property name="env.NUMBER_OF_PROCESSORS" value="8" />
     <property name="env.APPDATA" value="C:\Windows\system32\config\systemprofile\AppData\Roaming" />
     <property name="ant.file" value="C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\build.xml" />
-    <property name="env.BUILD_TAG" value="jenkins-PruebasUII-11" />
+    <property name="env.BUILD_TAG" value="jenkins-PruebasUII-12" />
     <property name="env.GIT_COMMITTER_NAME" value="andrea14polanco" />
     <property name="java.io.tmpdir" value="C:\Windows\TEMP\" />
     <property name="user.language" value="en" />
@@ -54,10 +54,10 @@
     <property name="env.JOB_NAME" value="PruebasUII" />
     <property name="java.vm.info" value="mixed mode" />
     <property name="source" value="1.8" />
-    <property name="env.BUILD_DISPLAY_NAME" value="#11" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#12" />
     <property name="sun.desktop" value="windows" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
-    <property name="env.BUILD_URL" value="http://localhost:8080/job/PruebasUII/11/" />
+    <property name="env.BUILD_URL" value="http://localhost:8080/job/PruebasUII/12/" />
     <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
     <property name="env.GIT_COMMITTER_EMAIL" value="alpm9615@hotmail.com" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
@@ -67,7 +67,7 @@
     <property name="env.USERDOMAIN" value="BRRD" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
     <property name="env.windir" value="C:\Windows" />
-    <property name="env.BUILD_NUMBER" value="11" />
+    <property name="env.BUILD_NUMBER" value="12" />
     <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
     <property name="os.name" value="Windows 7" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
@@ -84,7 +84,7 @@
     <property name="java.class.version" value="52.0" />
     <property name="ant.home" value="C:\apache-ant-1.9.7" />
     <property name="env.Path" value="C:\Program Files\Java\jdk1.8.0_101/bin;C:\Program Files\Java\jdk1.8.0_101/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS;C:\WINDOWS\system32;C:\Program Files\Java\jdk1.8.0_51\bin;C:\MinGW\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Windows\System32;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Javalib\;C:\Program Files\nodejs\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;" />
-    <property name="env.GIT_COMMIT" value="a93e1aa8a29c8ac2350888dd8f18caa67ebafee3" />
+    <property name="env.GIT_COMMIT" value="b950fc78fe3b5d739b27d14dfc40a72417ccbd29" />
     <property name="env.JENKINS_HOME" value="C:\Program Files (x86)\Jenkins" />
     <property name="env.BASE" value="C:\Program Files (x86)\Jenkins" />
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin" />
@@ -113,7 +113,7 @@
     <property name="sun.cpu.endian" value="little" />
     <property name="env._USE_CLASSPATH" value="no" />
     <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
-    <property name="env.GIT_PREVIOUS_COMMIT" value="41ebfac4a785b8da861ac7e49ad3d2456cfccf8c" />
+    <property name="env.GIT_PREVIOUS_COMMIT" value="a93e1aa8a29c8ac2350888dd8f18caa67ebafee3" />
     <property name="env.WINSW_EXECUTABLE" value="C:\Program Files (x86)\Jenkins\jenkins.exe" />
     <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
     <property name="java.vm.version" value="25.101-b13" />
@@ -123,7 +123,7 @@
     <property name="ant.file.PruebasUnitariasII" value="C:\Users\Usuario\git\PruebasUnitariasII\PruebasUnitariasII\build.xml" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
-    <property name="env.BUILD_ID" value="11" />
+    <property name="env.BUILD_ID" value="12" />
     <property name="ant.core.lib" value="C:\apache-ant-1.9.7\lib\ant.jar" />
     <property name="env.ProgramFiles" value="C:\Program Files" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
@@ -134,25 +134,28 @@
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes" />
     <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
     <property name="env.WORKSPACE" value="C:\Program Files (x86)\Jenkins\workspace\PruebasUII" />
-    <property name="env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="41ebfac4a785b8da861ac7e49ad3d2456cfccf8c" />
+    <property name="env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="a93e1aa8a29c8ac2350888dd8f18caa67ebafee3" />
     <property name="env.TEMP" value="C:\Windows\TEMP" />
     <property name="env.VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\" />
     <property name="env.ANT_HOME" value="C:\apache-ant-1.9.7" />
     <property name="user.country" value="US" />
-    <property name="env.EXECUTOR_NUMBER" value="0" />
+    <property name="env.EXECUTOR_NUMBER" value="1" />
     <property name="env.JOB_BASE_NAME" value="PruebasUII" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
-    <property name="env.HUDSON_COOKIE" value="9cd06dbe-d985-4163-a7eb-6aa129bb5337" />
+    <property name="env.HUDSON_COOKIE" value="ff12b2c8-a742-476d-a42a-a6da6a4a07a7" />
     <property name="ant.file.type.PruebasUnitariasII" value="file" />
     <property name="java.specification.version" value="1.8" />
     <property name="sun.arch.data.model" value="64" />
   </properties>
-  <testcase classname="TestPackage.Test" name="testSum" time="0.006">
-    <failure message="expected:&lt;11&gt; but was:&lt;101&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;11&gt; but was:&lt;101&gt;
-	at TestPackage.Test.testSum(Test.java:14)
-</failure>
-  </testcase>
+  <error message="TestPackage.Test" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: TestPackage.Test
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+</error>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

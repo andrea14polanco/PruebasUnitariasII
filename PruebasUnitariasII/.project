@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>PruebasUnitariasII</name>
+			<type>2</type>
+			<location>C:/Users/Usuario/Desktop/PruebasUnitariasII-master/PruebasUnitariasII</location>
+		</link>
+	</linkedResources>
 </projectDescription>
