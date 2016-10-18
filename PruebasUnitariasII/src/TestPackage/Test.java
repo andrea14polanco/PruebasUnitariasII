@@ -12,6 +12,7 @@ public class Test {
 		long n = 5;
 		long m = 6;
 		assertEquals(cp.suma(n , m), 11);
+		
 	}
 
 }
