@@ -56,7 +56,7 @@
     </target>
     <target name="Test">
         <mkdir dir="${junit.output.dir}"/>
-        <junit fork="yes" printsummary="withOutAndErr">
+        <junit fork="yes">
             <formatter type="xml"/>
             <test name="TestPackage.Test" todir="${junit.output.dir}"/>
             <classpath refid="PruebasUnitariasII.classpath"/>
